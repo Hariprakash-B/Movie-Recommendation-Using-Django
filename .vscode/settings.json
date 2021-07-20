@@ -1,0 +1,15 @@
+{
+    "git.enabled": true,
+    "git.path": "C:\\path\\to\\git.exe",
+    "python.pythonPath": "C:\\anaconda3\\python.exe",
+    "launch": {
+
+
+        "configurations": [],
+        "compounds": []
+    },
+    "workbench.settings.useSplitJSON": true,
+    "debug.javascript.resourceRequestOptions": {
+    },
+}
+
